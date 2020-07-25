@@ -1,5 +1,7 @@
 # flutter_web_example
 
+GithubPages: https://matyskyle.github.io/flutter_web_example/#/
+
 A new Flutter project.
 
 ## Getting Started
