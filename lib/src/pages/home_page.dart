@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
   String temp = '26';
   String weather = "S\nU\nN\nN\nY";
   Color color = Colors.black;
-  String background = "assets/images/bg1.png";
+  String background = "assets/images/bg4.png";
   String gif = "assets/images/sunny.gif";
 
   List<bool> isSelected = [true, false, false, false, false, false, false];
@@ -95,7 +95,7 @@ class _HomePageState extends State<HomePage> {
           if(weatherList[buttonIndex].id == 5){
             color = Colors.white;
             gif = "assets/images/night.gif";
-            background = "assets/images/bg.png";
+            background = "assets/images/bg5.png";
           }
           else{
             color = Colors.black;
@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage> {
             else{
               gif = "assets/images/sunny.gif";
             }
-            background = "assets/images/bg1.png";
+            background = "assets/images/bg4.png";
           }
         } else {
           isSelected[buttonIndex] = false;
