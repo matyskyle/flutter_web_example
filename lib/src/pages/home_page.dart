@@ -185,7 +185,7 @@ class _HomePageState extends State<HomePage> {
 
     //Contenedor para la temperatura
     return Container(
-      height: 150,
+      height: 130,
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.center,
         mainAxisAlignment: MainAxisAlignment.center,
@@ -240,9 +240,8 @@ class _HomePageState extends State<HomePage> {
 
           ConstrainedBox(
             //nombre del dia
-
             constraints: BoxConstraints(
-              maxHeight: 25,
+              maxHeight: 20,
               maxWidth: 285,
             ),
             child: ListView.builder(
@@ -268,10 +267,10 @@ class _HomePageState extends State<HomePage> {
   }
 
   Widget _weatherType(){
-    return Container(
+    return SafeArea(
         child: Text(
           weather, style: TextStyle(
-            fontSize: 20, fontFamily: "IBM", color: color
+            fontSize: 17, fontFamily: "IBM", color: color
           )
         ),
       );
@@ -280,8 +279,8 @@ class _HomePageState extends State<HomePage> {
   Widget weatherDaysIcons(){
 
     return ToggleButtons(
-          constraints: BoxConstraints(minHeight: 40, minWidth: 40),
-          borderRadius: BorderRadius.circular(50),
+          constraints: BoxConstraints(minHeight: 30, minWidth: 40),
+          borderRadius: BorderRadius.circular(20),
           fillColor: Colors.brown.withOpacity(0.4),
           children: [
             Icon(
