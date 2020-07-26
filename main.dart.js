@@ -6554,7 +6554,7 @@ AU:function AU(a,b,c,d){var _=this
 _.d="26"
 _.e="S\nU\nN\nN\nY"
 _.f=a
-_.r="assets/images/bg1.png"
+_.r="assets/images/bg4.png"
 _.x="assets/images/sunny.gif"
 _.y=b
 _.z=c
@@ -41340,10 +41340,10 @@ s.e=n.d
 n=n.a
 if(n===5){s.f=C.j
 s.x="assets/images/night.gif"
-s.r="assets/images/bg.png"}else{s.f=C.l
+s.r="assets/images/bg5.png"}else{s.f=C.l
 if(n===2||n===6)s.x="assets/images/rainy.gif"
 else s.x="assets/images/sunny.gif"
-s.r="assets/images/bg1.png"}}else r[o]=!1},
+s.r="assets/images/bg4.png"}}else r[o]=!1},
 $S:0}
 X.PG.prototype={
 $2:function(a,b){var s=null,r=this.a

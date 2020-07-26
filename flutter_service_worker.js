@@ -8,24 +8,27 @@ const RESOURCES = {
 "manifest.json": "de6e8deb444958c19d4dd30a5630fed7",
 "assets/NOTICES": "75f844c915b80ed4008257142b307475",
 "assets/assets/images/bg.png": "5ca0849246e769b9ccf3b59d8e97eea8",
+"assets/assets/images/bg5.png": "feaa0b3a8c192ccf7a670fee8e57f55d",
 "assets/assets/images/night.gif": "13354a54a7023ec7e0b64a8017a93466",
 "assets/assets/images/bg2.png": "1ef5e1ce802af4711df901f1e0cb30b5",
 "assets/assets/images/bg1.png": "29cf0e000d266e8244b71e8d0c4f4e81",
+"assets/assets/images/bg4.png": "af05e6f6110852e119b79d4feff90ea3",
 "assets/assets/images/rainy.gif": "81db470a8dbbf60acf2665a69605d051",
 "assets/assets/images/sunny.gif": "80c706001b66894587c5a0b5ccf3e13f",
+"assets/assets/images/bg3.png": "cd0cd25409d0cf4163ae23b4899ab27d",
 "assets/assets/fonts/Oxygen-Regular.ttf": "61d9daf063ba38f2d05f8adb7267e6fd",
 "assets/assets/fonts/MyFlutterApp.ttf": "20186b122acac58412a43aa0949693ba",
 "assets/assets/fonts/Poppins-Light.ttf": "2a47a29ceb33c966c8d79f8d5a5ea448",
 "assets/assets/fonts/IBMPlexMono-Bold.ttf": "36183581f89e93328498c9073e402f85",
 "assets/assets/fonts/Oxygen-Bold.ttf": "3ada7a9482cb9a123ad501e45053adb3",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/AssetManifest.json": "eed048a3522518935b1e1e1a70aa6bf2",
+"assets/AssetManifest.json": "fa6de38597a10fb1b84bbbb9e68204ee",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/FontManifest.json": "f897c55c8b042de78c1f9ce0d907d357",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "index.html": "e1b29062fc10b671829d98ddd4798456",
 "/": "e1b29062fc10b671829d98ddd4798456",
-"main.dart.js": "c352b26bf544a4a9b1b181d9bd366d97"
+"main.dart.js": "35be9708873a5a33a822254c882e3f82"
 };
 
 // The application shell files that are downloaded before a service worker can
