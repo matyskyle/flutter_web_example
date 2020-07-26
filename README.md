@@ -2,6 +2,8 @@
 
 GithubPages: https://matyskyle.github.io/flutter_web_example/#/
 
+APP UI inspiration: https://dribbble.com/shots/11955919-Minimal-calendar-app
+
 A new Flutter project.
 
 ## Getting Started
